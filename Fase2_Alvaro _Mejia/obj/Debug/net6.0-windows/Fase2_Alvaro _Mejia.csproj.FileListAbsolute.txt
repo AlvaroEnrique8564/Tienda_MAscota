@@ -1,0 +1,40 @@
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.exe
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.deps.json
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.runtimeconfig.json
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.dll
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.pdb
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.AssemblyReference.cache
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.frmclave.resources
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Properties.Resources.resources
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Properties.Spa_Mascotas.resources
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.GenerateResource.cache
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.AssemblyInfoInputs.cache
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.AssemblyInfo.cs
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.CoreCompileInputs.cache
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.dll
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\refint\Fase2_Alvaro _Mejia.dll
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.pdb
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.genruntimeconfig.cache
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\ref\Fase2_Alvaro _Mejia.dll
+E:\Periodo 2022 16-04\Estru_Datos_97\Desarrollo\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Resporte_de_Spa_Mascotas.resources
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.AssemblyReference.cache
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.frmclave.resources
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Properties.Resources.resources
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Properties.Spa_Mascotas.resources
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro__Mejia.Resporte_de_Spa_Mascotas.resources
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.GenerateResource.cache
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.AssemblyInfoInputs.cache
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.AssemblyInfo.cs
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.csproj.CoreCompileInputs.cache
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.dll
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\refint\Fase2_Alvaro _Mejia.dll
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.pdb
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.exe
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.deps.json
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.runtimeconfig.json
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.dll
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\bin\Debug\net6.0-windows\Fase2_Alvaro _Mejia.pdb
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\Fase2_Alvaro _Mejia.genruntimeconfig.cache
+C:\Users\yanet\Downloads\Fase2_Alvaro _Mejia\Fase2_Alvaro _Mejia\obj\Debug\net6.0-windows\ref\Fase2_Alvaro _Mejia.dll
